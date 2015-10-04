@@ -1,0 +1,53 @@
+{
+  "name": "twbs-seed",
+  "version": "1.0.0",
+  "title": "Twitter Bootstrap Seed",
+  "description": "Boilerplate and custom bootstrap configuration to build faster",
+  "keywords": [
+    "html5",
+    "css3",
+    "bootstrap",
+    "twbs",
+    "compass",
+    "gulp",
+    "bower",
+    "boilerplate",
+    "semantic",
+    "accessibility"
+  ],
+  "author": "João Paulo Barbosa Neto <jpaulobneto@gmail.com>, Hugo Fabrício <me@hugofabricio.com>",
+  "homepage": "https://github.com/jpaulobneto/twbs-seed",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jpaulobneto/twbs-seed.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/jpaulobneto/twbs-seed/master/LICENSE"
+    }
+  ],
+  "devDependencies": {
+    "autoprefixer": "^6.0.3",
+    "browser-sync": "^2.9.6",
+    "del": "^2.0.2",
+    "gulp": "^3.8.10",
+    "gulp-concat": "^2.4.2",
+    "gulp-css-globbing": "^0.1.7",
+    "gulp-csso": "^1.0.0",
+    "gulp-file-include": "^0.13.7",
+    "gulp-if": "^1.2.5",
+    "gulp-imagemin": "^2.0.0",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-postcss": "^6.0.0",
+    "gulp-prettify": "^0.3.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-size": "^2.0.0",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.0.2",
+    "run-sequence": "^1.0.2",
+    "stream-browserify": "^2.0.1"
+  }
+}

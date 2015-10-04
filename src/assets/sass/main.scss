@@ -1,0 +1,10 @@
+// Carrega os vendors
+@import 'helpers/variables';
+@import 'helpers/fonts';
+@import 'helpers/functions';
+@import 'helpers/bootstrap';
+// Estilos gerais - seriam o Base no  SUIT https://github.com/suitcss/base
+@import "common";
+// Carrega os components e os utilities
+@import "components/*";
+@import 'utilities/*';

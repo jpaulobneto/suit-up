@@ -1,0 +1,11 @@
+/* Namespace */
+.twt {
+  &-Button {
+    /* ... */
+  }
+}
+
+.Button {
+  /* ... */
+  &.Button--default { /* ... */ }
+}
