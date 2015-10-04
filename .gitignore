@@ -1,5 +1,6 @@
 .idea
 .sass-cache
+*.css.map
 node_modules
 src/assets/vendor
 /dist
